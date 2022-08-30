@@ -1,1 +1,0 @@
-gcc serveur.c -o serveur2 -lmariadb
